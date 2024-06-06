@@ -3,7 +3,7 @@ description: Where Passion Meets Performance.
 baseurl: ""
 url: https://www.jollyminoufc.vom
 
-theme: cvless
+#theme: cvless
 
 # site settings
 taglong: Where Passion Meets Performance.
